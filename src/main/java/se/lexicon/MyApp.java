@@ -7,5 +7,7 @@ public class MyApp {
     static void main() {
         // sout + Tab
         System.out.println("Hello World!");
+
+        MethodDemo.printSum(10, 20);
     }
 }
